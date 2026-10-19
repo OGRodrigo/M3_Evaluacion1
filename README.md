@@ -1,4 +1,4 @@
-# Evaluación 1 - API Copa Libertadores
+﻿# Evaluación 1 - API Copa Libertadores
 
 Proyecto desarrollado para la Evaluación 1 del Módulo 3 del Diplomado Full Stack.
 
