@@ -89,8 +89,6 @@ Un club que existe pero no posee títulos responde con `200 OK` y un array vací
 
 ## Video de demostración
 
-Enlace al video:
+Puedes ver la demostración del proyecto en YouTube:
 
-```text
-PENDIENTE - agregar enlace de YouTube
-```
+https://youtu.be/U0_NVhK6axA
